@@ -2,7 +2,7 @@
 ### [PTRMssing] [MalformedAddress] [ylmf-pc] [spoof] [.] [.]
 #### [Updated every 2~3 hours]
 
-# [Counting 10479 IPs]
+# [Counting 10493 IPs]
 
 # [Symptoms] 
 ###   [PTRMssing] [MalformedAddress] [ylmf-pc] [spoof]
